@@ -1,0 +1,25 @@
+.center-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  padding: 2rem;
+  border: 1px solid #e6e6e6;
+  box-shadow: 4px 4px 15px -1px rgba(0,0,0,0.4);
+  border-radius: 6px;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+}
+
+.input-field {
+  margin: 0.5rem 0 0.5rem 0;
+}
+
+.input {
+  display: block;
+}
